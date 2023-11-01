@@ -2,7 +2,7 @@
 
 **Can Computer vision and Deep Learning be used to solve Sudoku puzzle?**
 
-I developed an automatic sudoku puzzle solver using computer vision and deep learning. Computer vision is used to extract the Sudoku grid from the image and identify the individual cells of the puzzle, while the deep learning model is used to recognize the number. An algorithm is then used to solve the puzzle. 
+I developed an automatic sudoku puzzle solver using computer vision and deep learning. Computer vision is used to extract the Sudoku grid from the image and identify the individual cells of the puzzle, while the deep learning model is used to recognize the digit. An algorithm is then used to solve the puzzle. 
 
 The solver can be used to solve a Sudoku puzzle from a single image or in real time from a camera.
 
